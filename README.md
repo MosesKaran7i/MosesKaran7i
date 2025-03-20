@@ -1,27 +1,12 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22480
-Fork on GitHub
-7379
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Moses Karani</h1>
-<h3 align="center">A passionate about using my skills and knowledge to maek a difference in the world.</h3>
+<h3 align="center">A passionate about using my skills and knowledge to make a difference in the world.I  am thriving on tackling complex problems and finding innovative solutions that not only meet the need of ours clients, but also have a positive impact on societu as whole.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseskaran7i&label=Profile%20views&color=0e75b6&style=flat" alt="moseskaran7i" /> </p>
 
 - 🔭 I’m currently working on [AWS](https://github/moseskara7i/AWS)
 
-- 🌱 I’m currently learning **AWS, KUbenertes, Docker**
+- 🌱 I’m currently learning **AWS, KUbenertes, Docker, AI/ML, IOT**
 
 - 📫 How to reach me **mosesjnr46466@gmail.com**
 
@@ -40,27 +25,5 @@ markdown
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moseskaran7i&show_icons=true&locale=en" alt="moseskaran7i" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
+
