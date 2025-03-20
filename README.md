@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Moses Karani</h1>
+<h1 align="center">Hi 👋, I'm Moses Karani- Backend Developer</h1>
 <h3 align="center">A passionate about using my skills and knowledge to make a difference in the world.I  am thriving on tackling complex problems and finding innovative solutions that not only meet the need of ours clients, but also have a positive impact on societu as whole.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moseskaran7i&label=Profile%20views&color=0e75b6&style=flat" alt="moseskaran7i" /> </p>
